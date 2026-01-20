@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+    background-color: #00FFDB;
+    color: #FF0004;
+    font-style: italic;
+    border-width: thin;
+}
+h1 {
+    color: #7F3839;
+    border-style: groove;
+    border-color: #000000;
+}
+table {
+    color: #163F6A;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-repeat: repeat;
+}
